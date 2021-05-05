@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Event from './components/Databinding/Event';
+// import Event from './components/Databinding/Event';
+// import DemoIf from './components/ReRender/DemoIf';
+import BaiTapState from './components/ReRender/BaiTapState';
 // import SinhVien from './components/Databinding/SinhVien';
 // import Header from './components/Header';
 // import Product from './components/Product';
@@ -15,7 +17,10 @@ function App() {
             </div> */}
             {/* <BaiTapComponent/> */}
             {/* <SinhVien /> */}
-            <Event />
+            {/* <Event /> */}
+            {/* <DemoIf /> */}
+            <BaiTapState />
+
 
 
 
